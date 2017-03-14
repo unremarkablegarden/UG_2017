@@ -1,0 +1,27 @@
+$black: rgba(0,0,0,0.95);
+$gray: rgba(0,0,0,0.4);
+$white: #fefefe;
+$blue: #72d0eb;
+$pink: #ffb3b3;
+$body-background: $white;
+$primary: $black;
+$link: $gray;
+$text: $black;
+
+// @font-face {
+//  font-family: 'B';
+//  src: url(fonts/Br.otf);
+//  font-weight: normal;
+//  font-style: normal;
+// }
+
+
+$family-primary: sans-serif;
+
+@import "loading";
+// @import "bulma/bulma";
+// @import "ionicons/ionicons";
+// @import "slick/slick";
+// @import "slick/slick-theme";
+
+@import "style.sass";

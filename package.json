@@ -1,0 +1,14 @@
+{
+  "name": "olle-bulma-barba-sass-gulp",
+  "version": "1.0.0",
+  "description": "Starter WP theme with bumla.css, barba.js for page transitions, sass for css and gulp to pack and minify everything.",
+  "private": true,
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.2",
+    "gulp-uglify": "^2.0.0"
+  },
+  "dependencies": {}
+}
