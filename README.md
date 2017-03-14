@@ -6,3 +6,5 @@ WP starter based on _s
 -Bulma CSS
 -Move.js
 -Flickity gallery
+
+Run `npm install` in the theme directory to get gulp dependencies. Then just run gulp.
